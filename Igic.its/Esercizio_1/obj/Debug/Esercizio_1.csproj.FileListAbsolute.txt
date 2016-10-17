@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\VS_TeamServices\Igic.its\Esercizio_1\bin\Debug\Esercizio_1.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\VS_TeamServices\Igic.its\Esercizio_1\bin\Debug\Esercizio_1.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\VS_TeamServices\Igic.its\Esercizio_1\bin\Debug\Esercizio_1.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\VS_TeamServices\Igic.its\Esercizio_1\obj\Debug\Esercizio_1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\VS_TeamServices\Igic.its\Esercizio_1\obj\Debug\Esercizio_1.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\VS_TeamServices\Igic.its\Esercizio_1\obj\Debug\Esercizio_1.pdb
